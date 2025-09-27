@@ -52,7 +52,7 @@ export default function Home() {
               <h3 className="font-bold text-xl mb-3 text-gray-900">Smart Home Enforcement</h3>
               <p className="text-gray-600">
                 Connects with IoT devices in your home. Locks your fridge when you should be working. 
-                Makes lights flash when you're off-task. Controls entertainment systems to eliminate distractions.
+                Makes lights flash when you&apos;re off-task. Controls entertainment systems to eliminate distractions.
               </p>
             </div>
             
@@ -62,7 +62,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-xl mb-3 text-gray-900">Aggressive Motivation</h3>
               <p className="text-gray-600">
-                Sends spam calls and texts when you're procrastinating. Donates to charities you oppose. 
+                Sends spam calls and texts when you&apos;re procrastinating. Donates to charities you oppose. 
                 The AI learns and adapts, becoming more creative and persistent with each missed goal.
               </p>
             </div>
@@ -74,7 +74,7 @@ export default function Home() {
               <h3 className="font-bold text-xl mb-3 text-gray-900">Proof-of-Work Verification</h3>
               <p className="text-gray-600">
                 Upload photos or videos to prove task completion. GPS tracking verifies your location. 
-                AI analyzes your proof to ensure you're not cheating the system.
+                AI analyzes your proof to ensure you&apos;re not cheating the system.
               </p>
             </div>
             
@@ -84,7 +84,7 @@ export default function Home() {
               </div>
               <h3 className="font-bold text-xl mb-3 text-gray-900">Adaptive Intelligence</h3>
               <p className="text-gray-600">
-                Machine learning algorithms study your behavior patterns. Predicts when you'll procrastinate 
+                Machine learning algorithms study your behavior patterns. Predicts when you&apos;ll procrastinate 
                 and intervenes before it happens. Gets smarter and more effective over time.
               </p>
             </div>
@@ -102,10 +102,10 @@ export default function Home() {
           </div>
           
           <div className="mt-16 bg-gradient-to-r from-red-500 to-purple-600 rounded-2xl p-8 text-white text-center">
-            <h3 className="text-2xl font-bold mb-4">⚠️ This Isn't Your Average Productivity App</h3>
+            <h3 className="text-2xl font-bold mb-4">⚠️ This Isn&apos;t Your Average Productivity App</h3>
             <p className="text-lg opacity-90 max-w-3xl mx-auto">
               Coach Fred uses cutting-edge technology and psychological pressure to create genuine accountability. 
-              It's designed for people who are serious about change and tired of making excuses. 
+              It&apos;s designed for people who are serious about change and tired of making excuses. 
               <span className="font-semibold">Are you ready to commit?</span>
             </p>
           </div>

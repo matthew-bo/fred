@@ -34,7 +34,7 @@ export default function WaitlistForm() {
       } else {
         setMessage({ text: data.message, type: 'error' });
       }
-    } catch (error) {
+    } catch {
       setMessage({ text: 'Something went wrong. Please try again.', type: 'error' });
     } finally {
       setIsSubmitting(false);
