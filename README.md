@@ -1,6 +1,6 @@
-# AI Accountability Trainer - Waitlist Website
+# Coach Fred - Waitlist Website
 
-A high-converting waitlist landing page for the "AI Accountability Trainer" app, built with Next.js 14, TypeScript, Tailwind CSS, and Firebase.
+A high-converting waitlist landing page for "Coach Fred - AI Agent for Accountability Enforcement", built with Next.js 14, TypeScript, Tailwind CSS, and Firebase.
 
 ## 🚀 Features
 
